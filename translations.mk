@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
     ParanoidGlyphTranslation \
     ParanoidHubTranslation \
     ParanoidLauncherTranslation \
+    ParanoidLauncherQuickstepTranslation \
     ParanoidPapersTranslation \
     ParanoidSenseTranslation \
     ParanoidSystemUITranslation \
