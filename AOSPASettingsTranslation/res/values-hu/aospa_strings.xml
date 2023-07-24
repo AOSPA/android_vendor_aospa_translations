@@ -32,7 +32,7 @@
     <string name="gestures_double_tap">Dupla koppintás</string>
     <string name="gestures_single_tap">Egyszeri érintés</string>
     <string name="gestures_draw_v">V rajzolás</string>
-    <string name="gestures_draw_inverse_v">Fordított V rajz</string>
+    <string name="gestures_draw_inverse_v">Fordított V rajzolás</string>
     <string name="gestures_draw_o">O rajzolás</string>
     <string name="gestures_draw_m">M rajzolás</string>
     <string name="gestures_draw_w">W rajzolás</string>

@@ -103,4 +103,6 @@
     <string name="notification_vibration_pattern_title">Padrão de vibração da notificação</string>
     <string name="ring_vibration_pattern_title">Padrão de vibração do toque</string>
     <string name="pattern_default">Padrão do dispositivo</string>
+    <string name="touch_polling_title">Aumentar a sensibilidade ao toque</string>
+    <string name="touch_polling_summary">Melhora o toque ao usar uma película</string>
 </resources>
