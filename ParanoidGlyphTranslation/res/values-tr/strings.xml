@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Glyph için çevir</string>
     <string name="glyph_settings_flip_toggle_summary">Telefon ters dururken sessize al ve glyph göster</string>
     <string name="glyph_settings_brightness">Parlaklık</string>
-    <string name="glyph_settings_charging_title">Şarj animasyonu</string>
     <string name="glyph_settings_charging_level_title">Pil seviyesi</string>
     <string name="glyph_settings_charging_level_summary">Şarja takıldığında pil yüzdesini göster</string>
     <string name="glyph_settings_charging_powershare_title">Ters kablosuz şarj</string>

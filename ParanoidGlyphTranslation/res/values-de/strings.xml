@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Umdrehen für Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Stummschalten und Glyphen anzeigen, wenn das Telefon auf dem Display liegt.</string>
     <string name="glyph_settings_brightness">Helligkeit</string>
-    <string name="glyph_settings_charging_title">Ladeanimation</string>
     <string name="glyph_settings_charging_level_title">Akkustand</string>
     <string name="glyph_settings_charging_level_summary">Akkustand beim Einstecken anzeigen</string>
     <string name="glyph_settings_charging_powershare_title">Umgekehrtes kabelloses Laden</string>

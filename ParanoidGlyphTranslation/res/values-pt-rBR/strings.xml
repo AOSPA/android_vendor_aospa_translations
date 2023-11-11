@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Virar para ativar o Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Para ativar o modo silencioso e o Glyph, vire a tela do smartphone para baixo</string>
     <string name="glyph_settings_brightness">Brilho</string>
-    <string name="glyph_settings_charging_title">Animação de carregamento</string>
     <string name="glyph_settings_charging_level_title">Nível da bateria</string>
     <string name="glyph_settings_charging_level_summary">Mostrar o nível da bateria quando conectado o carregador</string>
     <string name="glyph_settings_charging_powershare_title">PowerShare</string>

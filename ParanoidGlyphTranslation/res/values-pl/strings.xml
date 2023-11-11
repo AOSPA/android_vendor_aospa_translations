@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Odwróć, aby aktywować Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Wycisz i pokaż Glyph, jeśli telefon jest skierowany w dół</string>
     <string name="glyph_settings_brightness">Jasność</string>
-    <string name="glyph_settings_charging_title">Animacja ładowania</string>
     <string name="glyph_settings_charging_level_title">Poziom naładowania baterii</string>
     <string name="glyph_settings_charging_level_summary">Pokaż poziom naładowania baterii przy podłączaniu</string>
     <string name="glyph_settings_charging_powershare_title">Bezprzewodowe ładowanie zwrotne</string>

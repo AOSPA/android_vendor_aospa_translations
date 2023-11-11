@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Capovolgi per Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Silenzia e mostra i Glyph se il telefono è capovolto</string>
     <string name="glyph_settings_brightness">Luminosità</string>
-    <string name="glyph_settings_charging_title">Animazione di ricarica</string>
     <string name="glyph_settings_charging_level_title">Percentuale batteria</string>
     <string name="glyph_settings_charging_level_summary">Mostra percentuale batteria quando in ricarica</string>
     <string name="glyph_settings_charging_powershare_title">Ricarica wireless inversa</string>
