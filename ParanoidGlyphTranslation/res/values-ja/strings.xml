@@ -24,6 +24,7 @@
     <string name="glyph_settings_flip_toggle_title">Glyph に切り替え</string>
     <string name="glyph_settings_flip_toggle_summary">デバイスを裏返して置いた時にミュートに変更をして Glyph で通知をします</string>
     <string name="glyph_settings_brightness">明るさ</string>
+    <string name="glyph_settings_charging_title">充電中</string>
     <string name="glyph_settings_charging_level_title">バッテリー残量</string>
     <string name="glyph_settings_charging_level_summary">接続時にバッテリー残量を表示します</string>
     <string name="glyph_settings_charging_powershare_title">リバースワイヤレス充電</string>
@@ -39,6 +40,9 @@
     <string name="glyph_settings_notifs_sub_title">許可をするアプリ</string>
     <string name="glyph_settings_notifs_sub_toggle_title">通知のアニメーションを有効化</string>
     <string name="glyph_settings_notifs_sub_animations_title">パターン</string>
+    <string name="glyph_settings_volume_title">音量</string>
+    <string name="glyph_settings_volume_level_toggle_title">音量インジケーター</string>
+    <string name="glyph_settings_volume_level_toggle_summary">音量の調整時に音量レベルを表示します</string>
     <string name="glyph_settings_misc_title">その他</string>
     <string name="glyph_settings_music_visualizer_toggle_title">音楽の視覚化</string>
     <string name="glyph_settings_music_visualizer_toggle_summary">ディスコライト!\nこの機能が有効化されている間は、他の Glyph の機能が無効化されます</string>

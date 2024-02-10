@@ -91,7 +91,7 @@
     <string name="charging_control_enable_title">Ativar carregamento inteligente</string>
     <string name="charging_control_mode_title">Programação </string>
     <string name="charging_control_mode_auto_title">Automático</string>
-    <string name="charging_control_mode_auto_summary">Determinar automaticamente quando iniciar o carregamento conforme os alarmes definidos</string>
+    <string name="charging_control_mode_auto_summary">Determinar automaticamente quando iniciar o carregamento com base nos alarmes definidos</string>
     <string name="charging_control_mode_custom_title">Nos horários definidos</string>
     <string name="charging_control_mode_custom_summary">Defina um horário para atingir a carga completa</string>
     <string name="charging_control_mode_limit_title">Limitar carga</string>
@@ -114,6 +114,6 @@
     <string name="touch_polling_title">Aumentar a sensibilidade ao toque</string>
     <string name="touch_polling_summary">Melhora o toque ao usar uma película</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">Desbloquear automaticamente se você inserir um PIN correto. Isso é um pouco menos seguro do que tocar em Enter para confirmar.</string>
-    <string name="quick_settings_quick_pull_down_title">Mostrar QS ao deslizar rápido para baixo</string>
-    <string name="quick_settings_quick_pull_down_summary">Puxe a barra de status do lado direito para expandir as configurações rápidas</string>
+    <string name="quick_settings_quick_pull_down_title">Mostrar configurações rápidas ao deslizar pela direita</string>
+    <string name="quick_settings_quick_pull_down_summary">Puxe a barra de status pelo lado direito para expandir as configurações rápidas</string>
 </resources>

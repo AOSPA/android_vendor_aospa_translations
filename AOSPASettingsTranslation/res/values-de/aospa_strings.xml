@@ -86,6 +86,22 @@
     <string name="hide_navbar_gesture_bar_summary">Blendet die Gestenleiste am unteren Bildschirmrand aus</string>
     <string name="system_black_theme_title">Schwarzes Design verwenden</string>
     <string name="system_black_theme_summary">Schwarze Hintergrundfarben erzwingen</string>
+    <string name="charging_control_title">Ladekontrolle</string>
+    <string name="charging_control_summary">Passe den Ladezeitplan und die Ladegrenzen für dein Gerät an</string>
+    <string name="charging_control_enable_title">Ladekontrolle aktivieren</string>
+    <string name="charging_control_mode_title">Lademodus</string>
+    <string name="charging_control_mode_auto_title">Automatischer Zeitplan</string>
+    <string name="charging_control_mode_auto_summary">Startzeitpunkt für den Ladevorgang anhand der eingestellten Alarme automatisch bestimmen</string>
+    <string name="charging_control_mode_custom_title">Benutzerdefinierter Zeitplan</string>
+    <string name="charging_control_mode_custom_summary">Zielzeit bis zur vollständigen Aufladung festlegen</string>
+    <string name="charging_control_mode_limit_title">Ladebegrenzung</string>
+    <string name="charging_control_mode_limit_summary">Ladung auf einen bestimmten Prozentsatz begrenzen</string>
+    <string name="charging_control_start_time_title">Startzeit</string>
+    <string name="charging_control_start_time_summary">Ladekontrolle wird aktiviert, wenn du nach %s mit dem Laden beginnst</string>
+    <string name="charging_control_target_time_title">Zielzeit bis zur vollständigen Aufladung</string>
+    <string name="charging_control_target_time_summary">Akku wird bis %s vollständig geladen sein</string>
+    <string name="charging_control_limit_title">Limit</string>
+    <string name="reset">Zurücksetzen</string>
     <string name="doze_gesture_ambient_title">Inaktiv anzeigen</string>
     <string name="doze_gesture_ambient_summary">Inaktivitätsdisplay anzeigen, anstatt den Bildschirm voll aufzuwecken</string>
     <string name="gesture_wake_ambient">Ambient anzeigen</string>
@@ -98,4 +114,6 @@
     <string name="touch_polling_title">Hohe Touchscreen-Abtastrate</string>
     <string name="touch_polling_summary">Touchscreen-Abtastrate erhöhen, um die Latenz zu verringern</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">Der Bildschirm wird automatisch entsperrt, wenn du eine korrekte PIN eingibst. Diese Option ist etwas weniger sicher, als wenn du zum Bestätigen auf „Eingabe“ tippst.</string>
+    <string name="quick_settings_quick_pull_down_title">Schnelleinstellungen schnell herunterziehen</string>
+    <string name="quick_settings_quick_pull_down_summary">Die Statusleiste von der rechten Seite nach unten ziehen, um die Schnelleinstellungen anzuzeigen</string>
 </resources>

@@ -18,6 +18,8 @@
 -->
 <resources>
     <string name="title_show_google_feed">滑動顯示 Google 即時資訊</string>
+    <string name="msg_minus_one_on_left">在主畫面上向左滑動來顯示 Google 即時資訊</string>
+    <string name="msg_minus_one_on_right">在主畫面上向右滑動來顯示 Google 即時資訊</string>
     <string name="pref_dt_gesture_title">輕觸兩下休眠</string>
     <string name="pref_dt_gesture_summary">在空白處輕觸兩下以關閉螢幕</string>
     <string name="suggestion_pref_screen_title">建議</string>
