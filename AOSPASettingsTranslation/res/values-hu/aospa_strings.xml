@@ -116,4 +116,8 @@
     <string name="lock_screen_auto_pin_confirm_summary_custom">Helyes PIN beírásakor automatikusan feleldódik. Ez kevésbé biztonságos mint a megerősítéses belépés.</string>
     <string name="quick_settings_quick_pull_down_title">Gyors legördítés</string>
     <string name="quick_settings_quick_pull_down_summary">A gyorsbeállítások megnyitásához húzza le az állapotsort jobb oldalról</string>
+    <string name="display_cutout_force_fullscreen_title">Teljesképernyős alkalmazások</string>
+    <string name="display_cutout_force_fullscreen_summary">Alkalmazások kényszerítése, hogy mellőzzék a képernyőkivágást</string>
+    <string name="display_cutout_force_fullscreen_search">Keresés</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Alkalmazások keresése</string>
 </resources>

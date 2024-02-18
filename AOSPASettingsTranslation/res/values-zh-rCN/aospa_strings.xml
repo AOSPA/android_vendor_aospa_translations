@@ -116,4 +116,8 @@
     <string name="lock_screen_auto_pin_confirm_summary_custom">输入正确的 PIN 码时自动解锁。这会比点击 Enter 确认的安全性小一些。</string>
     <string name="quick_settings_quick_pull_down_title">快速设置下拉</string>
     <string name="quick_settings_quick_pull_down_summary">从状态栏右侧下拉以快速展开快捷设置面板</string>
+    <string name="display_cutout_force_fullscreen_title">全屏应用</string>
+    <string name="display_cutout_force_fullscreen_summary">强制应用忽略刘海区域</string>
+    <string name="display_cutout_force_fullscreen_search">搜索</string>
+    <string name="display_cutout_force_fullscreen_search_apps">搜索应用</string>
 </resources>

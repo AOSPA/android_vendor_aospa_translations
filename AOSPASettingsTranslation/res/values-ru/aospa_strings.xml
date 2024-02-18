@@ -116,4 +116,8 @@
     <string name="lock_screen_auto_pin_confirm_summary_custom">Разблокировать автоматически, если вы введете правильный PIN-код. Это немного менее безопасно, чем нажатие Enter, чтобы подтвердить.</string>
     <string name="quick_settings_quick_pull_down_title">Быстрое раскрытие QS</string>
     <string name="quick_settings_quick_pull_down_summary">Потяните вниз строку состояния с правой стороны, чтобы развернуть быстрые настройки</string>
+    <string name="display_cutout_force_fullscreen_title">Полноэкранные приложения</string>
+    <string name="display_cutout_force_fullscreen_summary">Игнорирование выреза выбранными приложениями</string>
+    <string name="display_cutout_force_fullscreen_search">Поиск</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Поиск приложений</string>
 </resources>
