@@ -28,4 +28,10 @@
     <string name="pocket_view_title_cancel">要使用您的手机：</string>
     <string name="pocket_view_top_tag_cancel">不要遮盖您手机的蓝色区域，并保持其清洁</string>
     <string name="pocket_view_top_tag_cancel2">长按电源键强制退出防误触模式</string>
+    <string name="global_action_reboot">重启</string>
+    <string name="global_action_reboot_more">重启至\u2026</string>
+    <string name="global_action_reboot_sub">系统</string>
+    <string name="global_action_reboot_recovery">恢复模式</string>
+    <string name="global_action_reboot_bootloader">引导模式</string>
+    <string name="global_action_settings">设置</string>
 </resources>
